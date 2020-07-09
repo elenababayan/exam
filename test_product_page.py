@@ -8,4 +8,3 @@ def test_should_be_add_to_cart_button(browser):
     page.should_be_add_to_cart_button()
     page.solve_quiz_and_get_code()
 
-    test_product_page.py
