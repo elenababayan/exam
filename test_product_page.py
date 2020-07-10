@@ -1,4 +1,4 @@
-from pages.product_page import ProductPage
+from .pages.product_page import ProductPage
 
 
 def test_should_be_add_to_cart_button(browser):
